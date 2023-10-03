@@ -1,8 +1,8 @@
 # MachineLearning
 
-This project contains the algorithm implementation of the followings:
+This project contains different projects of machine learning
 
-## Clustering
+## 1. Clustering
 
 ### K-Means Clustering
 
@@ -11,3 +11,6 @@ EM (Expectation-Maximization) algorithm for clustering is an iterative method us
 
 E-step: The algorithm computes the posterior probabilities that each data point belongs to each of the Gaussian components.
 M-step: The algorithm computes a new estimate of the parameters of each Gaussian component given the responsibilities of the data points
+
+
+## 2. Fake News Detector
