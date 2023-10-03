@@ -14,3 +14,17 @@ M-step: The algorithm computes a new estimate of the parameters of each Gaussian
 
 
 ## 2. Fake News Detector
+
+### Problem statement
+In today's world articles, posts, news can be generated and spread easily. Analyzing the articles, detecting misinformation and stopping from spreading is crucial to maintaing the safety in society. Fake information can spread false information, leading people to make incorrect decisions based in inaccruate data. Fake information can impact the election results, economic, social, health and safety of people.
+
+Dataset: https://www.kaggle.com/datasets/jainpooja/fake-news-detection
+
+### Overview
+This application generates different models to identify the fake news and evaluate the performance of those models. As part of this project, we are considering following methods to create the models:
+
+Passive Aggressive Classifier
+Gradient Boost Classifier
+Support Vector
+Extreme Gradient Boost Classifier
+I also used same methods on news text and tokenized/lemmanized text to evaluate the performance of the different models.
